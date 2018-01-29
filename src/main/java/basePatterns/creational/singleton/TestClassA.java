@@ -5,4 +5,5 @@ package basePatterns.creational.singleton;
  */
 public class TestClassA {
     // do my best
+    //
 }
