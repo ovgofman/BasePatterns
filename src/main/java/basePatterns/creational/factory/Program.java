@@ -1,4 +1,4 @@
-package basePatterns.factory;
+package basePatterns.creational.factory;
 
 /**
  * Created by hofa on 25.12.2017.
@@ -6,7 +6,7 @@ package basePatterns.factory;
 public class Program {
     public static void main(String[] args) {
 
-        DeveloperFactory developerFactory = createDeveloperBySpeciality("php");
+        DeveloperFactory developerFactory = createDeveloperBySpeciality("cpp");
         Developer developer = developerFactory.createDeveloper();
         developer.writeCode();
     }

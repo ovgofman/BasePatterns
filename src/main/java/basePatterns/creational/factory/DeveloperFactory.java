@@ -1,4 +1,4 @@
-package basePatterns.factory;
+package basePatterns.creational.factory;
 
 /**
  * Created by hofa on 25.12.2017.
