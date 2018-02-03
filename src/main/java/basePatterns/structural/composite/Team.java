@@ -1,4 +1,4 @@
-package basePatterns.creational.composite;
+package basePatterns.structural.composite;
 
 import java.util.ArrayList;
 import java.util.List;

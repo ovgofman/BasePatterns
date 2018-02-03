@@ -1,4 +1,4 @@
-package basePatterns.creational.bridge;
+package basePatterns.structural.composite;
 
 /**
  * Created by hofa on 03.02.2018.
@@ -6,6 +6,6 @@ package basePatterns.creational.bridge;
 public class JavaDeveloper implements Developer {
     @Override
     public void writeCode() {
-        System.out.println("Java developer writes code ...");
+        System.out.println("Java developer writes code ... ");
     }
 }

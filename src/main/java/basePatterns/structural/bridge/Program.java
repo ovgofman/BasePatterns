@@ -1,4 +1,4 @@
-package basePatterns.creational.bridge;
+package basePatterns.structural.bridge;
 
 /**
  * Created by hofa on 03.02.2018.

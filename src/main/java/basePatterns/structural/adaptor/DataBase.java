@@ -1,4 +1,4 @@
-package basePatterns.creational.adaptor;
+package basePatterns.structural.adaptor;
 
 /**
  * Created by hofa on 02.02.2018.

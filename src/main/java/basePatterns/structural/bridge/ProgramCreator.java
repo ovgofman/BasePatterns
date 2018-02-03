@@ -1,4 +1,4 @@
-package basePatterns.creational.bridge;
+package basePatterns.structural.bridge;
 
 public class ProgramCreator {
     public static void main(String[] args) {
