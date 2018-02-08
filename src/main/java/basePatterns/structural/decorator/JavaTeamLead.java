@@ -10,7 +10,7 @@ public class JavaTeamLead extends DeveloperDecorator {
     }
 
     public String sendWeekReport() {
-        return " Send week report to a customer.";
+        return " Send week report to Database customer.";
     }
 
     @Override

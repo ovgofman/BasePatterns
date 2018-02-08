@@ -10,6 +10,6 @@ public class SMSNotifier extends Notifier {
 
     @Override
     public void write(String message) {
-        System.out.println("Sending SMS to a manager: " + message);
+        System.out.println("Sending SMS to Database manager: " + message);
     }
 }
